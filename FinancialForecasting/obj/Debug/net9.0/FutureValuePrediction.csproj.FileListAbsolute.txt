@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\bin\Debug\net9.0\FutureValuePrediction.exe
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\bin\Debug\net9.0\FutureValuePrediction.deps.json
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\bin\Debug\net9.0\FutureValuePrediction.runtimeconfig.json
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\bin\Debug\net9.0\FutureValuePrediction.dll
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\bin\Debug\net9.0\FutureValuePrediction.pdb
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\obj\Debug\net9.0\FutureValuePrediction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\obj\Debug\net9.0\FutureValuePrediction.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\obj\Debug\net9.0\FutureValuePrediction.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\obj\Debug\net9.0\FutureValuePrediction.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\obj\Debug\net9.0\FutureValuePrediction.dll
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\obj\Debug\net9.0\refint\FutureValuePrediction.dll
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\obj\Debug\net9.0\FutureValuePrediction.pdb
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\obj\Debug\net9.0\FutureValuePrediction.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Cognizant\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\DeepskillingAssignments\week1\FutureValuePrediction\obj\Debug\net9.0\ref\FutureValuePrediction.dll
