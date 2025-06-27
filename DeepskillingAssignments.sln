@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week1", "week1", "{0377D431-4109-1088-BB8F-0E0CDFEAF817}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week-1", "week-1", "{DB5BE78F-E342-6E9D-51DA-E5E868681789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceSearch", "week1\week-1\EcommerceSearch\EcommerceSearch.csproj", "{D29C9B99-22FE-5326-91F5-C000471D2D6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "week1\week-1\FactoryMethodPattern\FactoryMethodPattern.csproj", "{6F39322E-00F3-9D71-64EB-264476FE6942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureValuePrediction", "week1\week-1\FinancialForecasting\FutureValuePrediction.csproj", "{3F6C489F-7636-4C40-4053-2AFD83EB89F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "week1\week-1\SingletonPattern\SingletonPattern.csproj", "{709C87BF-E6EE-EEE9-EAE7-90D7ED17C429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29C9B99-22FE-5326-91F5-C000471D2D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29C9B99-22FE-5326-91F5-C000471D2D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29C9B99-22FE-5326-91F5-C000471D2D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29C9B99-22FE-5326-91F5-C000471D2D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F39322E-00F3-9D71-64EB-264476FE6942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F39322E-00F3-9D71-64EB-264476FE6942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F39322E-00F3-9D71-64EB-264476FE6942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F39322E-00F3-9D71-64EB-264476FE6942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6C489F-7636-4C40-4053-2AFD83EB89F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6C489F-7636-4C40-4053-2AFD83EB89F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6C489F-7636-4C40-4053-2AFD83EB89F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6C489F-7636-4C40-4053-2AFD83EB89F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709C87BF-E6EE-EEE9-EAE7-90D7ED17C429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709C87BF-E6EE-EEE9-EAE7-90D7ED17C429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709C87BF-E6EE-EEE9-EAE7-90D7ED17C429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709C87BF-E6EE-EEE9-EAE7-90D7ED17C429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB5BE78F-E342-6E9D-51DA-E5E868681789} = {0377D431-4109-1088-BB8F-0E0CDFEAF817}
+		{D29C9B99-22FE-5326-91F5-C000471D2D6D} = {DB5BE78F-E342-6E9D-51DA-E5E868681789}
+		{6F39322E-00F3-9D71-64EB-264476FE6942} = {DB5BE78F-E342-6E9D-51DA-E5E868681789}
+		{3F6C489F-7636-4C40-4053-2AFD83EB89F7} = {DB5BE78F-E342-6E9D-51DA-E5E868681789}
+		{709C87BF-E6EE-EEE9-EAE7-90D7ED17C429} = {DB5BE78F-E342-6E9D-51DA-E5E868681789}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226CA1FF-FE76-4ACA-998B-E508D8949D30}
+	EndGlobalSection
+EndGlobal
