@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\CalcLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09BC55C2-B436-4E95-AA03-17056FCDBC47}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|c:\\users\\kiit\\source\\repos\\calclibrary\\calclibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BC55C2-B436-4E95-AA03-17056FCDBC47}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|solutionrelative:calclibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BC55C2-B436-4E95-AA03-17056FCDBC47}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|c:\\users\\kiit\\source\\repos\\calclibrary\\calclibrary.tests\\calclibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09BC55C2-B436-4E95-AA03-17056FCDBC47}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|solutionrelative:calclibrary.tests\\calclibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7443FB-3881-403D-890F-05DFAA6B3F77}|CalcLibrary\\CalcLibrary.csproj|c:\\users\\kiit\\source\\repos\\calclibrary\\calclibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7443FB-3881-403D-890F-05DFAA6B3F77}|CalcLibrary\\CalcLibrary.csproj|solutionrelative:calclibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\CalcLibrary\\CalcLibrary.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\CalcLibrary\\CalcLibrary.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "CalcLibrary.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:29:15.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcLibrary.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\CalcLibrary\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\CalcLibrary\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "RelativeToolTip": "CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T08:24:25.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\CalcLibrary\\CalcLibrary\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalcLibrary\\Calculator.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\CalcLibrary\\CalcLibrary\\Calculator.cs",
+              "RelativeToolTip": "CalcLibrary\\Calculator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:06:45.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

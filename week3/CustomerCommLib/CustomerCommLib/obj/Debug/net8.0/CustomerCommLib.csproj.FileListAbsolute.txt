@@ -1,0 +1,11 @@
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
