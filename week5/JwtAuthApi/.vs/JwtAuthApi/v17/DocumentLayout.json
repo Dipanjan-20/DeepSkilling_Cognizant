@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kiit\\source\\repos\\jwtauthapi\\jwtauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kiit\\source\\repos\\jwtauthapi\\jwtauthapi\\controllers\\secretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\controllers\\secretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kiit\\source\\repos\\jwtauthapi\\jwtauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kiit\\source\\repos\\jwtauthapi\\jwtauthapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kiit\\source\\repos\\jwtauthapi\\jwtauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|c:\\users\\kiit\\source\\repos\\jwtauthapi\\jwtauthapi\\jwtauthapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D10AE2B-8B15-4215-BED2-4D7EBDF96A32}|JwtAuthApi\\JwtAuthApi.csproj|solutionrelative:jwtauthapi\\jwtauthapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthApi\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\Program.cs",
+              "RelativeToolTip": "JwtAuthApi\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T19:12:04.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtAuthApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\appsettings.json",
+              "RelativeToolTip": "JwtAuthApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T19:10:54.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T20:24:27.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecretController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\Controllers\\SecretController.cs",
+              "RelativeDocumentMoniker": "JwtAuthApi\\Controllers\\SecretController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\Controllers\\SecretController.cs",
+              "RelativeToolTip": "JwtAuthApi\\Controllers\\SecretController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:43:12.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JwtAuthApi\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\Models\\LoginModel.cs",
+              "RelativeToolTip": "JwtAuthApi\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T19:16:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtAuthApi",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\JwtAuthApi.csproj",
+              "RelativeDocumentMoniker": "JwtAuthApi\\JwtAuthApi.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\JwtAuthApi\\JwtAuthApi\\JwtAuthApi.csproj",
+              "RelativeToolTip": "JwtAuthApi\\JwtAuthApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-19T19:15:33.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
