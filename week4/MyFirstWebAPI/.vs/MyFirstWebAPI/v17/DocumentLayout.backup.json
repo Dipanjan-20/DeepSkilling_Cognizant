@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13D4CA26-4DD5-440E-BC95-821250B2B6DF}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\source\\repos\\myfirstwebapi\\myfirstwebapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D4CA26-4DD5-440E-BC95-821250B2B6DF}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D4CA26-4DD5-440E-BC95-821250B2B6DF}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\source\\repos\\myfirstwebapi\\myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D4CA26-4DD5-440E-BC95-821250B2B6DF}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D4CA26-4DD5-440E-BC95-821250B2B6DF}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\source\\repos\\myfirstwebapi\\myfirstwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D4CA26-4DD5-440E-BC95-821250B2B6DF}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D4CA26-4DD5-440E-BC95-821250B2B6DF}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\source\\repos\\myfirstwebapi\\myfirstwebapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D4CA26-4DD5-440E-BC95-821250B2B6DF}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:41:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebAPI\\MyFirstWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebAPI\\MyFirstWebAPI\\Program.cs*",
+              "RelativeToolTip": "MyFirstWebAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:31:26.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebAPI\\MyFirstWebAPI\\model\\student.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\model\\student.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebAPI\\MyFirstWebAPI\\model\\student.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\model\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:31:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebAPI\\MyFirstWebAPI\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebAPI\\MyFirstWebAPI\\data\\AppDbContext.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:30:08.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

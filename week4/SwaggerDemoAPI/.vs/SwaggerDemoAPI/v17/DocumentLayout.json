@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\kiit\\source\\repos\\swaggerdemoapi\\swaggerdemoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\kiit\\source\\repos\\swaggerdemoapi\\swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\kiit\\source\\repos\\swaggerdemoapi\\swaggerdemoapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\kiit\\source\\repos\\swaggerdemoapi\\swaggerdemoapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\kiit\\source\\repos\\swaggerdemoapi\\swaggerdemoapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\kiit\\source\\repos\\swaggerdemoapi\\swaggerdemoapi\\swaggerdemoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\swaggerdemoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\kiit\\source\\repos\\swaggerdemoapi\\swaggerdemoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D46C0977-F027-41B1-B4D7-11DEB72E283D}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:16:09.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:09:07.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:03:20.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwDwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:24:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Program.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:47:31.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SwaggerDemoAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T18:22:25.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwaggerDemoAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "RelativeToolTip": "SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T23:44:58.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
